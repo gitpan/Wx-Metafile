@@ -1,0 +1,6 @@
+MANIFEST
+Makefile.PL
+Metafile.pm
+Metafile.xs
+typemap
+t/01_load.t
