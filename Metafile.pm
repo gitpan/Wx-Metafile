@@ -5,7 +5,7 @@ use base 'DynaLoader';
 use Wx;
 
 use vars qw($VERSION);
-$VERSION = '0.01',
+$VERSION = '0.02',
 
 Wx::wx_boot( 'Wx::Metafile', $Wx::Metafile::VERSION );
 
